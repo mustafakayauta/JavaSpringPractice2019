@@ -18,7 +18,8 @@ public class ArrayListLenght {
 	int num4[][]= {{3,2,3}, {2,3,4,5,6,7,8}};
 	System.out.println(num4.length);
 	
-	System.out.println("Merhaba mustafa");
+	System.out.println("Merhaba mustafa,bunu gitden degistrdi");
+		
 	
 	}
 }
